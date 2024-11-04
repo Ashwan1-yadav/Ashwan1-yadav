@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript, Java, Python, Web Dev, Docker**
 
-- 📫 How to reach me **Email :- ashwaniyadav888@gmail.com** , **LinkedIn :- (https://linkedin.com/in/https://www.linkedin.com/in/ashwani-yadav-a184b3253/)com** 
+- 📫 How to reach me **Email :- ashwaniyadav888@gmail.com** , LinkedIn :- https://linkedin.com/in/https://www.linkedin.com/in/ashwani-yadav-a184b3253/ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwan1-yadav" alt="ashwan1-yadav" /></a> </p>
 <h3 align="left">Connect with me:</h3>
