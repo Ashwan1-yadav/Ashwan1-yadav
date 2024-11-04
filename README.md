@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://www.linkedin.com/in/ashwani-yadav-a184b3253/)
 <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
 <h3 align="center">A passionate MERN Stack Developer from India with a knack for crafting efficient and user-friendly web applications</h3>
-<img align="right" alt="coding " width="800" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
+<img align="right" alt="coding " width="600" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwan1-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="ashwan1-yadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwan1-yadav" alt="ashwan1-yadav" /></a> </p>
