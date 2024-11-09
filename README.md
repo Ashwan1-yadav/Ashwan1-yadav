@@ -1,4 +1,4 @@
-[![MasterHead]([https://camo.githubusercontent.com/6f927365ba0fec8bd6e97bdcb9837c500515600a8c1bcc100f3c7a5287c6889e/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif))](https://www.linkedin.com/in/ashwani-yadav-a184b3253/)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://www.linkedin.com/in/ashwani-yadav-a184b3253/)
 <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
 <h3 align="center">A passionate MERN Stack Developer from India with a knack for crafting efficient and user-friendly web applications</h3>
 
