@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
 <h3 align="center">A passionate MERN Stack Developer from India with a knack for crafting efficient and user-friendly web applications</h3>
 
-- 🔭 I’m currently working on **Chatrio**
+- 🔭 I’m currently working on **NeuraGo**
 
-- 🌱 I’m currently learning **Next Js,Kafka & Redis**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashwan1-yadav](https://github.com/Ashwan1-yadav)
 
