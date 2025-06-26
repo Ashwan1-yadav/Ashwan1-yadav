@@ -1,8 +1,8 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://www.linkedin.com/in/ashwani-yadav-a184b3253/)
 <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
-<h3 align="center">A passionate MERN Stack Developer from India with a knack for crafting efficient and user-friendly web applications</h3>
+<h3 align="center">A passionate Full Stack Developer from India with a knack for crafting efficient and user-friendly web applications</h3>
 
-- 🔭 I’m currently working on **NeuraGo**
+- 🔭 I’m currently working on **DocTalk.ai**
 
 - 🌱 I’m currently learning **Next Js**
 
